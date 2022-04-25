@@ -3,7 +3,7 @@
  "price": 109.95, 
  "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
   "category": "men's clothing", 
-  "image": "/abc.json", 
+  "image": "/", 
   "rating": { "rate": 3.9, "count": 120 } },
 
 { "id": 2, "title": "Mens Casual Premium Slim Fit T-Shirts ", 
